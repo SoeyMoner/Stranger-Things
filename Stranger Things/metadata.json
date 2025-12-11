@@ -1,7 +1,0 @@
-{
-  "name": "Vecna Control",
-  "description": "A 3D interactive ritual controlled by hand gestures.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
