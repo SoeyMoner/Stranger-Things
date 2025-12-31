@@ -1,3 +1,13 @@
+请关注原作者Cecilia991 谢谢
+
+Stranger Things文案：
+lets go to the upsidedown
+——————————————————————————
+uʍopǝpı̣sdn  ǝɥꓕ oʇ oƃ sʇǝl
+
+
+以上为二编
+—————————————————————
 用gemini+tripo3d做的
 
 如需转载请注明出处，禁止商用
